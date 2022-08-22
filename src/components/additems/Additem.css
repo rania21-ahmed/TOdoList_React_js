@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.additems form input[type=text]{
+    width: 60%;
+}
+.additems form input[type=number]{
+    width: 30%;
+}
+.additems form input[type=submit]{
+    width: 10%;
+}
+form input{
+    padding:16px;
+    background-color: #ebebeb;
+    border: transparent;
+    border: 0.3px solid #ebebeb;
+    margin: 0;
+}
+form input[type=submit]{
+    background-color: #2ebaee;
+    border: 0.3px solid #2ebaee;
+    color: #fff;
+    cursor: pointer;
+}

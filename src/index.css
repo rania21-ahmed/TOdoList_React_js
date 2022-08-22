@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family:sans-serif;
+  color:#fff;
+  background-color: #22306a;
+  
+}
+.text-center{
+  text-align: center;
+}
+.container{
+  width:60%;
+  margin: 10% auto;
+}

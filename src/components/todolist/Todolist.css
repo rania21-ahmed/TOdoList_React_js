@@ -1,0 +1,33 @@
+.Listitems{
+    background-color: #fff;
+    color:#4f287e;
+}
+.Listitems p{
+    margin:0;
+    text-align: center;
+    padding: 10px 0;
+}
+.Listitems span{
+    display: inline-block;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 20px;
+    border: 0.3px solid #ccc;
+}
+.Listitems span.title{
+    background-color: #2ebaee;
+    color:#fff
+}
+.Listitems span.name{
+    width: 60%;
+}
+.Listitems span.age{
+    width: 30%;
+}
+.Listitems span.action{
+    width: 10%;
+}
+.Listitems span.icon{
+    color:red;
+    cursor: pointer;
+}
